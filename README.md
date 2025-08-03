@@ -48,30 +48,8 @@
 
 ---
 
-## 📊 GitHub Stats / آمار گیت‌هاب
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v74all&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v74all&layout=compact&theme=tokyonight&hide_border=true" width="48%">
-</p>
 
----
-
-## 🔥 Contribution Streak / روند فعالیت‌ها
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v74all&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-## 🏆 GitHub Trophies / افتخارات گیت‌هاب
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=v74all&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15">
-</p>
-
----
 
 ## 🌐 Connect with Me / ارتباط با من
 
